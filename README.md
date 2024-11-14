@@ -5,3 +5,5 @@
 >- [Ejercicio 12](https://github.com/JuanAlberticoHF/DAM-23-25/blob/main/ej12.md)
 >- [Ejercicio 13](https://github.com/JuanAlberticoHF/DAM-23-25/blob/main/ej13.md)
 >- [Ejercicio 14](https://github.com/JuanAlberticoHF/DAM-23-25/blob/main/ej14.md)
+
+>- [XML](https://github.com/JuanAlberticoHF/DAM-23-25/blob/main/AD/GuiaXML.md)
