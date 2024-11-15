@@ -7,3 +7,4 @@
 >- [Ejercicio 14](https://github.com/JuanAlberticoHF/DAM-23-25/blob/main/ej14.md)
 
 >- [XML](https://github.com/JuanAlberticoHF/DAM-23-25/blob/main/AD/GuiaXML.md)
+>- [JSON](https://github.com/JuanAlberticoHF/DAM-23-25/blob/main/AD/GuiaJSON.md)
