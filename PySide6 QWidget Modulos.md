@@ -1,7 +1,7 @@
 # Índice
 
 ## 1. Widgets Básicos
-- [QApplication](###QApplication)
+- [QApplication](#qapplication)
 - [QWidget](#qwidget)
 - [QMainWindow](#qmainwindow)
 - [QDialog](#qdialog)
