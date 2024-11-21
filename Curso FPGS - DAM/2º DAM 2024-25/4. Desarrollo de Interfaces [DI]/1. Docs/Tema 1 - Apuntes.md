@@ -4,7 +4,7 @@ Sistema definido por la forma en el que los usuarios interactúan con los compon
 ## 1.1 Diseño centrado en el usuario
 El diseño de interfaces se rige por el llamado diseño centrado en el usuario, centrado en las características y necesidades de las personas usando el producto.
 
-![](https://github.com/JuanAlberticoHF/DAM-23-25/blob/main/Temario/Pasted%20image%2020241107220349.png)
+![](../5.%20Multimedia/Tema%201%20-%20Apuntes/Tema%201%20-%20Apuntes%20-%20IMG1.png)
 
 - `Análisis del contexto de uso`: tareas a realizar y particularidades de los usuario como del entorno
 - `Detallar los requisitos`: especificar los requisitos que tiene que cumplir
@@ -27,7 +27,7 @@ La usabilidad de un producto o sistema esta formada por cinco componentes:
 - `D. Errores`: Tolerar errores y en el caso informar adecuadamente al usuario para denunciarlo
 - `E. Satisfaccion`: Uso agradable y sensación positiva.  
 
-![](https://github.com/JuanAlberticoHF/DAM-23-25/blob/main/Temario/Pasted%20image%2020241107221910.png)
+![](../5.%20Multimedia/Tema%201%20-%20Apuntes/Tema%201%20-%20Apuntes%20-%20IMG2.png)
 
 ## 2.2 Evaluación de la usabilidad
 Es muy importante evaluar la usabilidad de cara al diseño centrado en el usuario, validándolo con ellos mismos aportando para mejorar la solucion final. La evaulacion tiene tres objetivos:
@@ -51,7 +51,7 @@ Junto a un grupo de usuarios, se realizan sesiones de evaluación de la usabilid
 ## 2.3 Experiencia de usuario
 El concepto de experiencia de usuario o UX hace referencia a la experiencia del usuario en relacion con el producto, una buena experiencia da como resultado una opinion positiva.
 
-![](https://github.com/JuanAlberticoHF/DAM-23-25/blob/main/Temario/Pasted%20image%2020241108081610.png)
+![](../5.%20Multimedia/Tema%201%20-%20Apuntes/Tema%201%20-%20Apuntes%20-%20IMG3.png)
 
 En resumen, conseguir una buena experiencia de usuario comienza cuando un producto o servicio es útil.
 ## Heurísticas de usabilidad
@@ -70,7 +70,8 @@ Jakob Nielsen propuso 10 heurísticas para el diseño de interfaces basándose e
 
 La interfaz de usuario debe ser diseñado teniendo al usuario en mente y enfocar la aplicación una experiencia global. Para ello, hay que conocer pautas y recomendaciones existentes que nos ayudan a conseguir un diseño exitoso. Estas pautas se organizan en los siguientes niveles:
 
-![](https://github.com/JuanAlberticoHF/DAM-23-25/blob/main/Temario/Pasted%20image%2020241108083439.png)
+![](../5.%20Multimedia/Tema%201%20-%20Apuntes/Tema%201%20-%20Apuntes%20-%20IMG4.png)
+
 Algunas organizaciones elaborar sus propios estándares que pueden incluir aspectos como tipografía o colores, como tambien guías para el diseño de las aplicaciones internas.
 ## 3.1 Estructura de la interfaz
 ### A. Principios de diseño
@@ -99,8 +100,8 @@ Gran parte de las interfaces tienen menú y barras de herramientas usar las func
 
 ## 3.2 Controles
 Son componentes básicos con lo que construimos la interfaz grafica. La siguiente tabla recoge información y pautas de cada uno de los controles:
-![](https://github.com/JuanAlberticoHF/DAM-23-25/blob/main/Temario/Pasted%20image%2020241108085818.png)
-![](https://github.com/JuanAlberticoHF/DAM-23-25/blob/main/Temario/Pasted%20image%2020241108085828.png)
+![](../5.%20Multimedia/Tema%201%20-%20Apuntes/Tema%201%20-%20Apuntes%20-%20IMG5.png)
+![](../5.%20Multimedia/Tema%201%20-%20Apuntes/Tema%201%20-%20Apuntes%20-%20IMG6.png)
 ## Aspecto visual
 Hay que seguir unas pautas de diseño importantes relacionadas al aspecto visual:
 ### A. Color
