@@ -27,6 +27,7 @@ La usabilidad de un producto o sistema esta formada por cinco componentes:
 - `D. Errores`: Tolerar errores y en el caso informar adecuadamente al usuario para denunciarlo
 - `E. Satisfaccion`: Uso agradable y sensación positiva.  
 
+
 ![](../5.%20Multimedia/Tema%201%20-%20Apuntes/Tema%201%20-%20Apuntes%20-%20IMG2.png)
 
 ## 2.2 Evaluación de la usabilidad
